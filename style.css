@@ -1,0 +1,9 @@
+fieldset{
+    width: 50%;
+    background: beige;
+    margin: 20%;
+}
+legend{
+    font-size:2rem;
+    color:blue;
+}
